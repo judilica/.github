@@ -1,5 +1,1 @@
-# Leya
-![image](https://user-images.githubusercontent.com/43888637/134954649-db10aa64-5015-495a-a50d-a9e679864cc2.png)
-
-Current repositories in use:
-* [Sargasso](https://github.com/judilica/sargasso)
+![Leya-Koncept-Still-Peach](https://github.com/judilica/.github/assets/43888637/9052bea1-d206-4d4a-8cd5-f3633da85185)
